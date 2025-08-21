@@ -1,12 +1,14 @@
 {
   "chrome_binary": "D:\\迅雷下载\\chrome-win64\\chrome-win64\\chrome.exe",
   "profile_dir": "",
-  "interval": "3",
-  "sku_keywords": "",
+  "interval": "0.1",
+  "refresh_min": "1",
+  "sku_keywords": "整盒12个不支持7天无理由",
   "sound": true,
-  "sound_times": "3",
+  "sound_times": "10",
   "topmost": false,
   "cart_as_instock": true,
-  "debug_log": false,
-  "last_url": "https://detail.tmall.com/item.htm?abbucket=3&id=919142939015&mi_id=0000ilBEQkE_9MOyPTNa8VJxgsIpiU1M6y7OID7U9k0OVl4&ns=1&priceTId=214781ee17555932623731944e1042&skuId=5959173435399&spm=a21n57.1.hoverItem.3&utparam=%7B%22aplus_abtest%22%3A%224164058dc77bdf63228027c97613dd50%22%7D&xxc=taobaoSearch"
+  "debug_log": true,
+  "auto_buy": true,
+  "last_url": "https://detail.tmall.com/item.htm?abbucket=9&id=949044811713&pisk=gOMKltsKkFYHtP7Fv4AGqESL-AtMjCmUC2ofEz4hNV3t4VzutBPuVfnqWHyor0a-yV4ZKHzkYa3-2DFQAza55cZY49_QO0s8VV2QaX4u-ze-4qKMoKvmYDyzCEYDnKtnv1yVPwaCrl1_28EIi8gq3DyzFUeoMTCoY28mSKj7VltTqufCN4aQCPaa2T1IPyN15urzFzgSPPa_Du_5Pz6Q55aavTsQFzZ1fuqRRkaIPctT4Pa7FWgSfhEz5zG7AHUNAkB-9KXz4KJTrT6SBkF6sDa1A-k_v8axAvB5F_rL9riQWewM-sVs47HP4TF-Ajuzc2_BoWoS6VELedfQhchSklkBnwEZtci05mIfhDyL2Sw76g6SXJz81v2XhNEZ1DcSL2IRFkknn7U4636zZRM0Gjgd4no_dugzgYYVLyiS0xl0HdfQhchSkbIz6xDvtB70kufBXhCPaWZaznnbjO2n7mqToHNCa_PublUDXhCPaWZaXrxCF_5zZl5..&rn=e9cdb2259b6ddc4e8e502060acf09019&spm=a1z10.3-b.w4011-15691211895.64.59775e60MNYuGq&skuId=5888462276379"
 }
